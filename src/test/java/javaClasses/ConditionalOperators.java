@@ -39,6 +39,7 @@ public class ConditionalOperators {
 		System.out.println(s1==s3);//false
 		System.out.println((s1==s2) && (s1==s3));//address will be compared with '==' equal to  method
 		System.out.println(s1.equals(s2) && s1.equals(s3));//content will be compared here with equals method
+		
 	}
 
 }

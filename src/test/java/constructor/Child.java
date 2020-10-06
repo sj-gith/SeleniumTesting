@@ -13,7 +13,7 @@ public class Child extends Parent {
 	public Child() {
 		System.out.println("calling a child class cons");
 	}
-	public void add() {
+	/*public void add() {
 		System.out.println("add() of a child class");
 
 		super.add();
@@ -22,5 +22,5 @@ public class Child extends Parent {
 
 		// calling instance variable of a parent class by using super keyword
 		System.out.println(super.i);
-	}
+	}*/
 }

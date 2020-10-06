@@ -13,6 +13,7 @@ public class HashMapExample {
 		map.put(null, null);
 		map.put("first", 400);
 		map.put(100, "Java");
+		map.put("sele", "Java");
 		System.out.println(map);
 		
 		//Fetch the values
